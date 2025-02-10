@@ -36,7 +36,7 @@ int main() {
     printf("Parte do navio posicionado na casa [5][6]\n");
     printf("Parte do navio posicionado na casa [5][7]\n");
 
-    // Exibindo o tabuleiro com os navios
+    // tabuleiro com os navios
     printf("\nTabuleiro:\n");
     exibirTabuleiro(tabuleiro);
 
